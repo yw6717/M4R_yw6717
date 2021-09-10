@@ -1,3 +1,7 @@
+library(data.table)
+library(ggplot2)
+
+
 explore.cellphone.interstate.data.201021 <- function()
   
 {
